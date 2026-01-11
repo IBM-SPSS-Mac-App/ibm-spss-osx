@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/ibm-spss">  
+<a href="https://tubus-jubus-apps.github.io/.github/ibm-spss">  
 <img src="https://img.shields.io/badge/💻_GET_IBM_SPSS-blue?style=for-the-badge&logo=apple" alt="GET IBM SPSS">  
 </a>  
 </div>
